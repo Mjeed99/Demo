@@ -1,16 +1,31 @@
-{
-  "Attend": [
+[
     {
-      "id": 1,
-      "title": "Post 1"
+        "uid": 15679,
+        "timeStamp": "2020-11-03T15:16:23.07",
+        "accessPoint": "3E01D32D001A7E00",
+        "userID": "1002003004",
+        "factor": 2
     },
     {
-      "id": 2,
-      "title": "Post 2"
+        "uid": 15579,
+        "timeStamp": "2020-11-03T12:44:07.263",
+        "accessPoint": "3E01D32D001A7E00",
+        "userID": "1002003004",
+        "factor": 2
     },
     {
-      "id": 3,
-      "title": "Post 3"
+        "uid": 15482,
+        "timeStamp": "2020-11-03T09:28:20.717",
+        "accessPoint": "3E01D32D001A7E00",
+        "userID": "1002003004",
+        "factor": 3
+    },
+    {
+        "uid": 15387,
+        "timeStamp": "2020-11-03T07:18:57.41",
+        "accessPoint": "3E01D32D001A7E00",
+        "userID": "1002003004",
+        "factor": 2
     }
-  ]
-}
+]
+
